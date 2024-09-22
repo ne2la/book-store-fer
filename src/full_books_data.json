@@ -1,0 +1,1208 @@
+{
+  "sad": [
+    {
+      "title": "\"The Alchemist\"",
+      "author": "Paulo Coelho",
+      "genre": "Inspirational",
+      "year": 1988.0,
+      "isbn": "978-0061122415",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4T0aNvgYdBX8kfK_qYc046QFsSXhHE2NXWw&s"
+    },
+    {
+      "title": "\"Eleanor Oliphant Is Completely Fine\"",
+      "author": "Gail Honeyman",
+      "genre": "Uplifting",
+      "year": 2017.0,
+      "isbn": "978-0735220683",
+      "imageUrl": "https://images.penguinrandomhouse.com/cover/9780735220690"
+    },
+    {
+      "title": "\"The Happiness Project\"",
+      "author": "Gretchen Rubin",
+      "genre": "Inspirational",
+      "year": 2009.0,
+      "isbn": "978-0061583261",
+      "imageUrl": "https://m.media-amazon.com/images/I/41bO2i4hh7L._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "title": "\"Yes Please\"",
+      "author": "Amy Poehler",
+      "genre": "Humorous",
+      "year": 2014.0,
+      "isbn": "978-0062268341",
+      "imageUrl": "https://m.media-amazon.com/images/I/61wBtiEm2KL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "title": "\"Eat, Pray, Love\"",
+      "author": "Elizabeth Gilbert",
+      "genre": "Inspirational",
+      "year": 2006.0,
+      "isbn": "978-0143038412",
+      "imageUrl": "https://m.media-amazon.com/images/I/81l2BujvgSL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "title": "\"The Rosie Project\"",
+      "author": "Graeme Simsion",
+      "genre": "Humorous",
+      "year": 2013.0,
+      "isbn": "978-1476729091",
+      "imageUrl": "https://m.media-amazon.com/images/I/71zbZ+vTjQL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "title": "\"A Man Called Ove\"",
+      "author": "Fredrik Backman",
+      "genre": "Uplifting",
+      "year": 2012.0,
+      "isbn": "978-1476738024",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1405259930i/18774964.jpg"
+    },
+    {
+      "title": "\"Big Magic: Creative Living Beyond Fear\"",
+      "author": "Elizabeth Gilbert",
+      "genre": "Inspirational",
+      "year": 2015.0,
+      "isbn": "978-1594634727",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/81JEQafBdUL._AC_UL210_SR210,210_.jpg"
+    },
+    {
+      "title": "\"Bossypants\"",
+      "author": "Tina Fey",
+      "genre": "Humorous",
+      "year": 2011.0,
+      "isbn": "978-0316056892",
+      "imageUrl": "https://m.media-amazon.com/images/I/71n4gRAeCoL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "title": "\"The Art of Happiness\"",
+      "author": "Dalai Lama & Howard Cutler",
+      "genre": "Inspirational",
+      "year": 1998.0,
+      "isbn": "978-1573221115",
+      "imageUrl": "https://m.media-amazon.com/images/I/61kHdqMLosL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "title": "\"Hyperbole and a Half\"",
+      "author": "Allie Brosh",
+      "genre": "Humorous",
+      "year": 2013.0,
+      "isbn": "978-1451666175",
+      "imageUrl": "https://m.media-amazon.com/images/I/71DsHN46D6L._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "title": "\"The Little Prince\"",
+      "author": "Antoine de Saint-Exup\u00e9ry",
+      "genre": "Uplifting",
+      "year": 1943.0,
+      "isbn": "978-0156012195",
+      "imageUrl": "https://m.media-amazon.com/images/I/81G2R0luQJL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "title": "\"The Secret\"",
+      "author": "Rhonda Byrne",
+      "genre": "Inspirational",
+      "year": 2006.0,
+      "isbn": "978-1582701707",
+      "imageUrl": "https://m.media-amazon.com/images/I/71YRwowxA1L._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "title": "\"Good Omens\"",
+      "author": "Neil Gaiman & Terry Pratchett",
+      "genre": "Humorous",
+      "year": 1990.0,
+      "isbn": "978-0060853983",
+      "imageUrl": "https://m.media-amazon.com/images/I/81E+wwGBhWL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "title": "\"You Are a Badass\"",
+      "author": "Jen Sincero",
+      "genre": "Inspirational",
+      "year": 2013.0,
+      "isbn": "978-0762447695",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlxt0lGk-Ba4myjtrOEDsxQgxB_GSFw7gzLw&s"
+    },
+    {
+      "title": "\"The Book Thief\"",
+      "author": "Markus Zusak",
+      "genre": "Uplifting",
+      "year": 2005.0,
+      "isbn": "978-0375842207",
+      "imageUrl": "https://m.media-amazon.com/images/I/914cHl9v7oL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "title": "\"The Hitchhiker's Guide to the Galaxy\"",
+      "author": "Douglas Adams",
+      "genre": "Humorous",
+      "year": 1979.0,
+      "isbn": "978-0345391803",
+      "imageUrl": "https://m.media-amazon.com/images/I/71lUEcoFNEL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "title": "\"Me Talk Pretty One Day\"",
+      "author": "David Sedaris",
+      "genre": "Humorous",
+      "year": 2000.0,
+      "isbn": "978-0316776967",
+      "imageUrl": "https://m.media-amazon.com/images/I/81Mg+BtxUzL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "title": "\"Tuesdays with Morrie\"",
+      "author": "Mitch Albom",
+      "genre": "Inspirational",
+      "year": 1997.0,
+      "isbn": "978-0767905923",
+      "imageUrl": "https://m.media-amazon.com/images/I/51tZi-rXU1L._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "title": "\"The Pursuit of Happyness\"",
+      "author": "Chris Gardner",
+      "genre": "Inspirational",
+      "year": 2006.0,
+      "isbn": "978-0060744878",
+      "imageUrl": "https://m.media-amazon.com/images/I/81XeY2Ad0QL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "title": "\"The Power of Now\"",
+      "author": "Eckhart Tolle",
+      "genre": "Inspirational",
+      "year": 1997.0,
+      "isbn": "978-1577314806",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/71-zqlETKcL._AC_UL210_SR210,210_.jpg"
+    },
+    {
+      "title": "\"The Book of Joy\"",
+      "author": "Dalai Lama & Desmond Tutu",
+      "genre": "Uplifting",
+      "year": 2016.0,
+      "isbn": "978-0399185045",
+      "imageUrl": "https://m.media-amazon.com/images/I/81ve-5bLoIL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "title": "\"Wonder\"",
+      "author": "R.J. Palacio",
+      "genre": "Uplifting",
+      "year": 2012.0,
+      "isbn": "978-0375869020",
+      "imageUrl": "https://m.media-amazon.com/images/I/71Q1KDTHXLL._AC_UF350,350_QL50_.jpg"
+    },
+    {
+      "title": "\"The Four Agreements\"",
+      "author": "Don Miguel Ruiz",
+      "genre": "Inspirational",
+      "year": 1997.0,
+      "isbn": "978-1878424310",
+      "imageUrl": "https://m.media-amazon.com/images/I/41n95eD7gVL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "title": "\"Anxious People\"",
+      "author": "Fredrik Backman",
+      "genre": "Humorous",
+      "year": 2019.0,
+      "isbn": "978-1501160837",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/81ek4jaMMpL._AC_UL210_SR210,210_.jpg"
+    },
+    {
+      "title": "\"The Life-Changing Magic of Tidying Up\"",
+      "author": "Marie Kondo",
+      "genre": "Inspirational",
+      "year": 2011.0,
+      "isbn": "978-1607747307",
+      "imageUrl": "https://m.media-amazon.com/images/I/81X13ae1QkL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "title": "\"Tuesdays with Morrie\"",
+      "author": "Mitch Albom",
+      "genre": "Inspirational",
+      "year": 1997.0,
+      "isbn": "978-0767905923",
+      "imageUrl": "https://m.media-amazon.com/images/I/51tZi-rXU1L._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "title": "\"The Last Lecture\"",
+      "author": "Randy Pausch",
+      "genre": "Inspirational",
+      "year": 2008.0,
+      "isbn": "978-1401323257",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/613Jhj+HirL._AC_UL210_SR210,210_.jpg"
+    },
+    {
+      "title": "\"The Untethered Soul\"",
+      "author": "Michael A. Singer",
+      "genre": "Inspirational",
+      "year": 2007.0,
+      "isbn": "978-1572245372",
+      "imageUrl": "https://m.media-amazon.com/images/I/61dSHZxYdtL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "title": "\"Make Your Bed\"",
+      "author": "Admiral William H. McRaven",
+      "genre": "Inspirational",
+      "year": 2017.0,
+      "isbn": "978-1455570249",
+      "imageUrl": "https://www.hachettebookgroup.com/wp-content/uploads/2024/01/9781455570232.jpg"
+    },
+    {
+      "title": "\"The Road to Character\"",
+      "author": "David Brooks",
+      "genre": "Inspirational",
+      "year": 2015.0,
+      "isbn": "978-0812983418",
+      "imageUrl": "https://m.media-amazon.com/images/I/71mv+9Cl6TL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "title": "\"The Year of Yes\"",
+      "author": "Shonda Rhimes",
+      "genre": "Inspirational",
+      "year": 2015.0,
+      "isbn": "978-1476777092",
+      "imageUrl": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781476777122/year-of-yes-9781476777122_hr.jpg"
+    },
+    {
+      "title": "\"The Secret Life of Bees\"",
+      "author": "Sue Monk Kidd",
+      "genre": "Uplifting",
+      "year": 2002.0,
+      "isbn": "978-0142001745",
+      "imageUrl": "https://m.media-amazon.com/images/I/81-sRJzvQJL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "title": "\"The Guernsey Literary and Potato Peel Pie Society\"",
+      "author": "Mary Ann Shaffer & Annie Barrows",
+      "genre": "Uplifting",
+      "year": 2008.0,
+      "isbn": "978-0385340991",
+      "imageUrl": "https://m.media-amazon.com/images/I/81rC7miqI8L._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "title": "\"The Help\"",
+      "author": "Kathryn Stockett",
+      "genre": "Uplifting",
+      "year": 2009.0,
+      "isbn": "978-0399155345",
+      "imageUrl": "https://m.media-amazon.com/images/I/81IRWZ3KEAL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "title": "\"Born a Crime\"",
+      "author": "Trevor Noah",
+      "genre": "Humorous",
+      "year": 2016.0,
+      "isbn": "978-0399588198",
+      "imageUrl": "https://m.media-amazon.com/images/I/81yipMzekPL._UX250_.jpg"
+    },
+    {
+      "title": "\"The Art of Racing in the Rain\"",
+      "author": "Garth Stein",
+      "genre": "Uplifting",
+      "year": 2008.0,
+      "isbn": "978-0061537967",
+      "imageUrl": "https://m.media-amazon.com/images/I/81o8PrHjBqL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "title": "\"Life of Pi\"",
+      "author": "Yann Martel",
+      "genre": "Uplifting",
+      "year": 2001.0,
+      "isbn": "978-0156027328",
+      "imageUrl": "https://m.media-amazon.com/images/I/81E9oNSK3bL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "title": "\"Love Does\"",
+      "author": "Bob Goff",
+      "genre": "Inspirational",
+      "year": 2012.0,
+      "isbn": "978-1400203758",
+      "imageUrl": "https://m.media-amazon.com/images/I/715F+ozliuL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "title": "\"The Shack\"",
+      "author": "William P. Young",
+      "genre": "Inspirational",
+      "year": 2007.0,
+      "isbn": "978-0964729230",
+      "imageUrl": "https://m.media-amazon.com/images/I/81R3MGeNnAL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "title": "\"A Walk in the Woods\"",
+      "author": "Bill Bryson",
+      "genre": "Humorous",
+      "year": 1998.0,
+      "isbn": "978-0307279460",
+      "imageUrl": "https://m.media-amazon.com/images/I/91LZPx5BmwL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "title": "\"The Sun and Her Flowers\"",
+      "author": "Rupi Kaur",
+      "genre": "Inspirational",
+      "year": 2017.0,
+      "isbn": "978-1449486792",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1499791446i/35606560.jpg"
+    },
+    {
+      "title": "\"Man's Search for Meaning\"",
+      "author": "Viktor E. Frankl",
+      "genre": "Inspirational",
+      "year": 1946.0,
+      "isbn": "978-0807014295",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1535419394i/4069.jpg"
+    },
+    {
+      "title": "\"I Feel Bad About My Neck\"",
+      "author": "Nora Ephron",
+      "genre": "Humorous",
+      "year": 2006.0,
+      "isbn": "978-0307264558",
+      "imageUrl": "https://m.media-amazon.com/images/I/51NXlzGP3nL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "title": "\"Is Everyone Hanging Out Without Me?\"",
+      "author": "Mindy Kaling",
+      "genre": "Humorous",
+      "year": 2011.0,
+      "isbn": "978-0307886279",
+      "imageUrl": "https://m.media-amazon.com/images/I/71EI2IU2mLL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "title": "\"Wild\"",
+      "author": "Cheryl Strayed",
+      "genre": "Inspirational",
+      "year": 2012.0,
+      "isbn": "978-0307476074",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1453189881i/12262741.jpg"
+    },
+    {
+      "title": "\"Becoming\"",
+      "author": "Michelle Obama",
+      "genre": "Inspirational",
+      "year": 2018.0,
+      "isbn": "978-1524763138",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1528206996i/38746485.jpg"
+    },
+    {
+      "title": "\"Grit\"",
+      "author": "Angela Duckworth",
+      "genre": "Inspirational",
+      "year": 2016.0,
+      "isbn": "978-1501111105",
+      "imageUrl": "https://m.media-amazon.com/images/I/71gPBwjsEfL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "title": "\"The Power of Positive Thinking\"",
+      "author": "Norman Vincent Peale",
+      "genre": "Inspirational",
+      "year": 1952.0,
+      "isbn": "978-0743234801",
+      "imageUrl": "https://m.media-amazon.com/images/I/81ND4ZcIsxL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "title": "\"The Miracle Morning\"",
+      "author": "Hal Elrod",
+      "genre": "Inspirational",
+      "year": 2012.0,
+      "isbn": "978-0979019715",
+      "imageUrl": "https://m.media-amazon.com/images/I/61R1UgGxaLL._AC_UF894,1000_QL80_.jpg"
+    }
+  ],
+  "angry": [
+    {
+      "title": "The Power of Habit",
+      "author": "Charles Duhigg",
+      "genre": "Self-Help",
+      "year": 2012.0,
+      "isbn": "978-0812981605",
+      "imageUrl": "https://m.media-amazon.com/images/I/71ONWR6eXDL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "genre": "Self-Help",
+      "year": 2018.0,
+      "isbn": "978-0735211292",
+      "imageUrl": "https://m.media-amazon.com/images/I/61M6KzUbf7L._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "title": "The 7 Habits of Highly Effective People",
+      "author": "Stephen R. Covey",
+      "genre": "Self-Help",
+      "year": 1989.0,
+      "isbn": "978-0743269513",
+      "imageUrl": "https://m.media-amazon.com/images/I/71rmHeQeuRL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "title": "Think and Grow Rich",
+      "author": "Napoleon Hill",
+      "genre": "Self-Help",
+      "year": 1937.0,
+      "isbn": "978-1585424337",
+      "imageUrl": "https://jumpbooks.lk/ceruvef/uploads/2017/03/Think-And-Grow-Rich-2.jpeg"
+    },
+    {
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "genre": "Adventure",
+      "year": 1988.0,
+      "isbn": "978-0061122415",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1654371463i/18144590.jpg"
+    },
+    {
+      "title": "The Four Agreements",
+      "author": "Don Miguel Ruiz",
+      "genre": "Self-Help",
+      "year": 1997.0,
+      "isbn": "978-1878424310",
+      "imageUrl": "https://m.media-amazon.com/images/I/41n95eD7gVL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "title": "Man's Search for Meaning",
+      "author": "Viktor E. Frankl",
+      "genre": "Motivational",
+      "year": 1946.0,
+      "isbn": "978-0807014295",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1535419394i/4069.jpg"
+    },
+    {
+      "title": "Awaken the Giant Within",
+      "author": "Tony Robbins",
+      "genre": "Self-Help",
+      "year": 1991.0,
+      "isbn": "978-0671791544",
+      "imageUrl": "https://m.media-amazon.com/images/I/71Jj1ONRa9L._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "title": "The Subtle Art of Not Giving a F*ck",
+      "author": "Mark Manson",
+      "genre": "Self-Help",
+      "year": 2016.0,
+      "isbn": "978-0062457714",
+      "imageUrl": "https://jumpbooks.lk/ceruvef/uploads/2017/03/The-subtle-art-of-not-giving-a-fuck-buy-Sri-Lanka.jpg"
+    },
+    {
+      "title": "You Are a Badass",
+      "author": "Jen Sincero",
+      "genre": "Self-Help",
+      "year": 2013.0,
+      "isbn": "978-0762447695",
+      "imageUrl": "https://jumpbooks.lk/ceruvef/uploads/2018/02/you-are-a-badass.jpg"
+    },
+    {
+      "title": "Grit: The Power of Passion and Perseverance",
+      "author": "Angela Duckworth",
+      "genre": "Motivational",
+      "year": 2016.0,
+      "isbn": "978-1501111105",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM4rUYjbiAkTrtD_to0mbpaYF8Q4jFK1ViJA&s"
+    },
+    {
+      "title": "Can't Hurt Me",
+      "author": "David Goggins",
+      "genre": "Motivational",
+      "year": 2018.0,
+      "isbn": "978-1544512280",
+      "imageUrl": "https://jumpbooks.lk/ceruvef/uploads/2020/08/Cant-Hurt-Me-1.jpg"
+    },
+    {
+      "title": "The 5 AM Club",
+      "author": "Robin Sharma",
+      "genre": "Self-Help",
+      "year": 2018.0,
+      "isbn": "978-1443456623",
+      "imageUrl": "https://jumpbooks.lk/ceruvef/uploads/2019/09/The-5-AM-Club.jpg"
+    },
+    {
+      "title": "Daring Greatly",
+      "author": "Bren\u00e9 Brown",
+      "genre": "Self-Help",
+      "year": 2012.0,
+      "isbn": "978-1592408412",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1337110319i/13588356.jpg"
+    },
+    {
+      "title": "Wild",
+      "author": "Cheryl Strayed",
+      "genre": "Adventure",
+      "year": 2012.0,
+      "isbn": "978-0307476074",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1453189881i/12262741.jpg"
+    },
+    {
+      "title": "Deep Work",
+      "author": "Cal Newport",
+      "genre": "Self-Help",
+      "year": 2016.0,
+      "isbn": "978-1455586691",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1447957962i/25744928.jpg"
+    },
+    {
+      "title": "Mindset: The New Psychology of Success",
+      "author": "Carol S. Dweck",
+      "genre": "Self-Help",
+      "year": 2006.0,
+      "isbn": "978-0345472328",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1436227012i/40745.jpg"
+    },
+    {
+      "title": "The Obstacle Is the Way",
+      "author": "Ryan Holiday",
+      "genre": "Self-Help",
+      "year": 2014.0,
+      "isbn": "978-1591846352",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1391440316i/18668059.jpg"
+    },
+    {
+      "title": "Make Your Bed",
+      "author": "William H. McRaven",
+      "genre": "Motivational",
+      "year": 2017.0,
+      "isbn": "978-1455570242",
+      "imageUrl": "https://m.media-amazon.com/images/I/713oSHhIrHL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "title": "Educated",
+      "author": "Tara Westover",
+      "genre": "Motivational",
+      "year": 2018.0,
+      "isbn": "978-0399590504",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1506026635i/35133922.jpg"
+    },
+    {
+      "title": "The Happiness Project",
+      "author": "Gretchen Rubin",
+      "genre": "Self-Help",
+      "year": 2009.0,
+      "isbn": "978-0061583261",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXeCsQjNA2r2Gfu6aTJY5XEI7e1TQ-sBezBQ&s"
+    },
+    {
+      "title": "How to Win Friends and Influence People",
+      "author": "Dale Carnegie",
+      "genre": "Self-Help",
+      "year": 1936.0,
+      "isbn": "978-0671027032",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa_BMh8s10yz7nzWLfO6Ny0C2lgMyTzqID7w&s"
+    },
+    {
+      "title": "The Secret",
+      "author": "Rhonda Byrne",
+      "genre": "Self-Help",
+      "year": 2006.0,
+      "isbn": "978-1582701707",
+      "imageUrl": "https://www.thesecret.tv/wp-content/uploads/2015/05/The-Secret-Book.png"
+    },
+    {
+      "title": "Big Magic",
+      "author": "Elizabeth Gilbert",
+      "genre": "Self-Help",
+      "year": 2015.0,
+      "isbn": "978-1594634727",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1Y1JRZV2wWZKYG_XFwBO1oROoyrmF_2LvwQ&s"
+    },
+    {
+      "title": "The Art of Happiness",
+      "author": "Dalai Lama and Howard Cutler",
+      "genre": "Self-Help",
+      "year": 1998.0,
+      "isbn": "978-1573221115",
+      "imageUrl": "https://m.media-amazon.com/images/I/71g3GNPZplL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "title": "The Success Principles",
+      "author": "Jack Canfield",
+      "genre": "Self-Help",
+      "year": 2004.0,
+      "isbn": "978-0062364289",
+      "imageUrl": "https://m.media-amazon.com/images/I/618SgHQBgOL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "title": "The Road Less Traveled",
+      "author": "M. Scott Peck",
+      "genre": "Self-Help",
+      "year": 1978.0,
+      "isbn": "978-0743243155",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1322673263i/347852.jpg"
+    },
+    {
+      "title": "Mindfulness in Plain English",
+      "author": "Bhante Henepola Gunaratana",
+      "genre": "Self-Help",
+      "year": 1994.0,
+      "isbn": "978-0861719068",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1385189327i/64369.jpg"
+    },
+    {
+      "title": "The Untethered Soul",
+      "author": "Michael A. Singer",
+      "genre": "Self-Help",
+      "year": 2007.0,
+      "isbn": "978-1572245372",
+      "imageUrl": "https://m.media-amazon.com/images/I/61dSHZxYdtL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "title": "You Can Heal Your Life",
+      "author": "Louise Hay",
+      "genre": "Self-Help",
+      "year": 1984.0,
+      "isbn": "978-0937611012",
+      "imageUrl": "https://jumpbooks.lk/ceruvef/uploads/2021/05/You-Can-Heal-Your-Life.jpeg"
+    },
+    {
+      "title": "The Miracle Morning",
+      "author": "Hal Elrod",
+      "genre": "Self-Help",
+      "year": 2012.0,
+      "isbn": "978-0979019715",
+      "imageUrl": "https://m.media-amazon.com/images/I/61R1UgGxaLL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "title": "The One Thing",
+      "author": "Gary Keller",
+      "genre": "Self-Help",
+      "year": 2013.0,
+      "isbn": "978-1885167774",
+      "imageUrl": "https://m.media-amazon.com/images/I/71UszR7SFoL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "title": "Drive: The Surprising Truth About What Motivates Us",
+      "author": "Daniel H. Pink",
+      "genre": "Self-Help",
+      "year": 2009.0,
+      "isbn": "978-1594484803",
+      "imageUrl": "https://m.media-amazon.com/images/I/71uTHTyxtwL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "title": "Crushing It!",
+      "author": "Gary Vaynerchuk",
+      "genre": "Self-Help",
+      "year": 2018.0,
+      "isbn": "978-0062674678",
+      "imageUrl": "https://jumpbooks.lk/ceruvef/uploads/2018/08/crushing-it.jpg"
+    },
+    {
+      "title": "The Monk Who Sold His Ferrari",
+      "author": "Robin Sharma",
+      "genre": "Self-Help",
+      "year": 1996.0,
+      "isbn": "978-0062515674",
+      "imageUrl": "https://store.goodreads.lk/wp-content/uploads/2022/12/9788179921623.jpg"
+    },
+    {
+      "title": "Outliers: The Story of Success",
+      "author": "Malcolm Gladwell",
+      "genre": "Self-Help",
+      "year": 2008.0,
+      "isbn": "978-0316017923",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1344266315i/3228917.jpg"
+    },
+    {
+      "title": "The Gifts of Imperfection",
+      "author": "Bren\u00e9 Brown",
+      "genre": "Self-Help",
+      "year": 2010.0,
+      "isbn": "978-1592403356",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1369092544i/7015403.jpg"
+    },
+    {
+      "title": "Boundaries",
+      "author": "Henry Cloud and John Townsend",
+      "genre": "Self-Help",
+      "year": 1992.0,
+      "isbn": "978-0310247456",
+      "imageUrl": "https://m.media-amazon.com/images/I/71tzfwpS+fL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "title": "Unlimited Power",
+      "author": "Tony Robbins",
+      "genre": "Self-Help",
+      "year": 1986.0,
+      "isbn": "978-0684824359",
+      "imageUrl": "https://m.media-amazon.com/images/I/91YOW8QpoVL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "title": "The Slight Edge",
+      "author": "Jeff Olson",
+      "genre": "Self-Help",
+      "year": 2013.0,
+      "isbn": "978-1626340466",
+      "imageUrl": "https://m.media-amazon.com/images/I/51nHEufHMEL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "title": "The War of Art",
+      "author": "Steven Pressfield",
+      "genre": "Self-Help",
+      "year": 2002.0,
+      "isbn": "978-1936891023",
+      "imageUrl": "https://m.media-amazon.com/images/I/71jgxi5WW2L._UF1000,1000_QL80_.jpg"
+    },
+    {
+      "title": "The Artist's Way",
+      "author": "Julia Cameron",
+      "genre": "Self-Help",
+      "year": 1992.0,
+      "isbn": "978-0874776876",
+      "imageUrl": "https://m.media-amazon.com/images/I/81k6Ef+Dk3L._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "title": "Self-Compassion",
+      "author": "Kristin Neff",
+      "genre": "Self-Help",
+      "year": 2011.0,
+      "isbn": "978-0061733512",
+      "imageUrl": "https://m.media-amazon.com/images/I/81izunhB0iL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "title": "Radical Acceptance",
+      "author": "Tara Brach",
+      "genre": "Self-Help",
+      "year": 2003.0,
+      "isbn": "978-0553380996",
+      "imageUrl": "https://m.media-amazon.com/images/I/71VrNbnfjrL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "title": "The Compound Effect",
+      "author": "Darren Hardy",
+      "genre": "Self-Help",
+      "year": 2010.0,
+      "isbn": "978-1935944851",
+      "imageUrl": "https://static-01.daraz.lk/p/3266418cc9085dbe33a12c2e2d40dd59.jpg"
+    },
+    {
+      "title": "Tools of Titans",
+      "author": "Tim Ferriss",
+      "genre": "Self-Help",
+      "year": 2016.0,
+      "isbn": "978-1328683786",
+      "imageUrl": "https://jumpbooks.lk/ceruvef/uploads/2017/02/Tools-of-titans-buy-Sri-Lanka.jpg"
+    },
+    {
+      "title": "Daring Greatly",
+      "author": "Bren\u00e9 Brown",
+      "genre": "Self-Help",
+      "year": 2012.0,
+      "isbn": "978-1592408412",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1337110319i/13588356.jpg"
+    },
+    {
+      "title": "Essentialism",
+      "author": "Greg McKeown",
+      "genre": "Self-Help",
+      "year": 2014.0,
+      "isbn": "978-0804137386",
+      "imageUrl": "https://m.media-amazon.com/images/I/71yWDyjGxZL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "title": "The Code of the Extraordinary Mind",
+      "author": "Vishen Lakhiani",
+      "genre": "Self-Help",
+      "year": 2016.0,
+      "isbn": "978-1623367087",
+      "imageUrl": "https://bookholics.lk/wp-content/uploads/2020/08/Code-of-extraordinary-mind.jpg"
+    },
+    {
+      "title": "The Confidence Code",
+      "author": "Katty Kay and Claire Shipman",
+      "genre": "Self-Help",
+      "year": 2014.0,
+      "isbn": "978-0062230638",
+      "imageUrl": "https://m.media-amazon.com/images/I/71HoCEEBj-L._AC_UF1000,1000_QL80_.jpg"
+    }
+  ],
+  "happy": [
+    {
+      "title": "The Rosie Project",
+      "author": "Graeme Simsion",
+      "genre": "Lighthearted",
+      "year": 2013.0,
+      "isbn": 9781476729091.0,
+      "imageUrl": "https://m.media-amazon.com/images/I/71zbZ+vTjQL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "title": "Eleanor Oliphant Is Completely Fine",
+      "author": "Gail Honeyman",
+      "genre": "Feel-Good",
+      "year": 2017.0,
+      "isbn": 9780008172145.0,
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1557858891i/35900387.jpg"
+    },
+    {
+      "title": "Me Before You",
+      "author": "Jojo Moyes",
+      "genre": "Romantic",
+      "year": 2012.0,
+      "isbn": 9780718157838.0,
+      "imageUrl": "https://jumpbooks.lk/ceruvef/uploads/2022/03/Me-Before-You.jpeg"
+    },
+    {
+      "title": "The Flatshare",
+      "author": "Beth O'Leary",
+      "genre": "Romantic",
+      "year": 2019.0,
+      "isbn": 9781787474420.0,
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1552471375i/36478784.jpg"
+    },
+    {
+      "title": "Bridget Jones's Diary",
+      "author": "Helen Fielding",
+      "genre": "Lighthearted",
+      "year": 1996.0,
+      "isbn": 9780330332774.0,
+      "imageUrl": "https://m.media-amazon.com/images/I/81tMODYOdCL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "title": "To All the Boys I've Loved Before",
+      "author": "Jenny Han",
+      "genre": "Romantic",
+      "year": 2014.0,
+      "isbn": 9781442426719.0,
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1372086100i/15749186.jpg"
+    },
+    {
+      "title": "The Hating Game",
+      "author": "Sally Thorne",
+      "genre": "Romantic",
+      "year": 2016.0,
+      "isbn": 9780062439598.0,
+      "imageUrl": "https://m.media-amazon.com/images/I/717uYVw9SSL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "title": "Crazy Rich Asians",
+      "author": "Kevin Kwan",
+      "genre": "Lighthearted",
+      "year": 2013.0,
+      "isbn": 9780385536974.0,
+      "imageUrl": "https://m.media-amazon.com/images/I/71qzZ9tf+AL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "title": "You Had Me at Hello",
+      "author": "Mhairi McFarlane",
+      "genre": "Romantic",
+      "year": 2012.0,
+      "isbn": 9780007488056.0,
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348787624i/15733851.jpg"
+    },
+    {
+      "title": "The Unhoneymooners",
+      "author": "Christina Lauren",
+      "genre": "Romantic",
+      "year": 2019.0,
+      "isbn": 9781501128035.0,
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1548201335i/42201431.jpg"
+    },
+    {
+      "title": "Attachments",
+      "author": "Rainbow Rowell",
+      "genre": "Romantic",
+      "year": 2011.0,
+      "isbn": 9780452297548.0,
+      "imageUrl": "https://m.media-amazon.com/images/I/61V9bsDizIL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "title": "Anna and the French Kiss",
+      "author": "Stephanie Perkins",
+      "genre": "Romantic",
+      "year": 2010.0,
+      "isbn": 9780525423270.0,
+      "imageUrl": "https://m.media-amazon.com/images/I/71UTN8xXDuL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "title": "The Kiss Quotient",
+      "author": "Helen Hoang",
+      "genre": "Romantic",
+      "year": 2018.0,
+      "isbn": 9780451490803.0,
+      "imageUrl": "https://m.media-amazon.com/images/I/81mKbEH0G2L._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "title": "P.S. I Love You",
+      "author": "Cecelia Ahern",
+      "genre": "Romantic",
+      "year": 2004.0,
+      "isbn": 9780316300534.0,
+      "imageUrl": "https://jumpbooks.lk/ceruvef/uploads/2022/03/PS-I-Love-You.jpeg"
+    },
+    {
+      "title": "Can You Keep a Secret?",
+      "author": "Sophie Kinsella",
+      "genre": "Lighthearted",
+      "year": 2003.0,
+      "isbn": 9780552771108.0,
+      "imageUrl": "https://www.sophiekinsella.co.uk/wp-content/uploads/2018/07/Can-You-Keep-a-Secret-PB.jpg"
+    },
+    {
+      "title": "The Matchmaker",
+      "author": "Elin Hilderbrand",
+      "genre": "Romantic",
+      "year": 2014.0,
+      "isbn": 9780316099666.0,
+      "imageUrl": "https://m.media-amazon.com/images/I/61vBvsmmeqL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "title": "Our Stop",
+      "author": "Laura Jane Williams",
+      "genre": "Romantic",
+      "year": 2019.0,
+      "isbn": 9780008334215.0,
+      "imageUrl": "https://m.media-amazon.com/images/I/71VZhgVUO1L._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "title": "Love at First Like",
+      "author": "Hannah Orenstein",
+      "genre": "Romantic",
+      "year": 2019.0,
+      "isbn": 9781982117795.0,
+      "imageUrl": "https://m.media-amazon.com/images/I/71m4lCTAj2L._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "title": "The Little Paris Bookshop",
+      "author": "Nina George",
+      "genre": "Feel-Good",
+      "year": 2013.0,
+      "isbn": 9780553418774.0,
+      "imageUrl": "https://m.media-amazon.com/images/I/81iTKF8bJlL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "title": "One Day in December",
+      "author": "Josie Silver",
+      "genre": "Romantic",
+      "year": 2018.0,
+      "isbn": 9780525574682.0,
+      "imageUrl": "https://m.media-amazon.com/images/I/819WqcidSnL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "title": "The Wedding Date",
+      "author": "Jasmine Guillory",
+      "genre": "Romantic",
+      "year": 2018.0,
+      "isbn": 9780399587665.0,
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/819UXBZHxUL._AC_UL210_SR210,210_.jpg"
+    },
+    {
+      "title": "The Proposal",
+      "author": "Jasmine Guillory",
+      "genre": "Romantic",
+      "year": 2018.0,
+      "isbn": 9780399587689.0,
+      "imageUrl": "https://m.media-amazon.com/images/I/71htIG3jZ+L._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "title": "The Bromance Book Club",
+      "author": "Lyssa Kay Adams",
+      "genre": "Romantic",
+      "year": 2019.0,
+      "isbn": 9781984806093.0,
+      "imageUrl": "https://lyssakayadams.com/wp-content/uploads/2023/11/Bromance-Book-Club-3D.png"
+    },
+    {
+      "title": "Red, White & Royal Blue",
+      "author": "Casey McQuiston",
+      "genre": "Romantic",
+      "year": 2019.0,
+      "isbn": 9781250316776.0,
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1566742512i/41150487.jpg"
+    },
+    {
+      "title": "Josh and Hazel's Guide to Not Dating",
+      "author": "Christina Lauren",
+      "genre": "Romantic",
+      "year": 2018.0,
+      "isbn": 9781501165844.0,
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1526941489i/40189670.jpg"
+    },
+    {
+      "title": "One to Watch",
+      "author": "Kate Stayman-London",
+      "genre": "Romantic",
+      "year": 2020.0,
+      "isbn": 9780525542283.0,
+      "imageUrl": "https://m.media-amazon.com/images/I/71yM0irz+UL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "title": "Beach Read",
+      "author": "Emily Henry",
+      "genre": "Romantic",
+      "year": 2020.0,
+      "isbn": 9781984806734.0,
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1589881197i/52867387.jpg"
+    },
+    {
+      "title": "People We Meet on Vacation",
+      "author": "Emily Henry",
+      "genre": "Romantic",
+      "year": 2021.0,
+      "isbn": 9781984806758.0,
+      "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1618913179l/54985743.jpg"
+    },
+    {
+      "title": "The Friend Zone",
+      "author": "Abby Jimenez",
+      "genre": "Romantic",
+      "year": 2019.0,
+      "isbn": 9781538715604.0,
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1553782196i/41945163.jpg"
+    },
+    {
+      "title": "99 Percent Mine",
+      "author": "Sally Thorne",
+      "genre": "Romantic",
+      "year": 2019.0,
+      "isbn": 9780062439611.0,
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1532485978i/36300625.jpg"
+    },
+    {
+      "title": "Roomies",
+      "author": "Christina Lauren",
+      "genre": "Romantic",
+      "year": 2017.0,
+      "isbn": 9781501165820.0,
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1492478146i/34466910.jpg"
+    },
+    {
+      "title": "Well Met",
+      "author": "Jen DeLuca",
+      "genre": "Romantic",
+      "year": 2019.0,
+      "isbn": 9781984805386.0,
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1548353675i/43189874.jpg"
+    },
+    {
+      "title": "The Right Swipe",
+      "author": "Alisha Rai",
+      "genre": "Romantic",
+      "year": 2019.0,
+      "isbn": 9780062878090.0,
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1564550901i/39863092.jpg"
+    },
+    {
+      "title": "Would Like to Meet",
+      "author": "Rachel Winters",
+      "genre": "Romantic",
+      "year": 2019.0,
+      "isbn": 9780525542313.0,
+      "imageUrl": "https://m.media-amazon.com/images/I/71kFohOJHPL.jpg"
+    },
+    {
+      "title": "Get a Life, Chloe Brown",
+      "author": "Talia Hibbert",
+      "genre": "Romantic",
+      "year": 2019.0,
+      "isbn": 9780062941206.0,
+      "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1614273529l/43884209.jpg"
+    },
+    {
+      "title": "Take a Hint, Dani Brown",
+      "author": "Talia Hibbert",
+      "genre": "Romantic",
+      "year": 2020.0,
+      "isbn": 9780062941237.0,
+      "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1572990974l/49976087.jpg"
+    },
+    {
+      "title": "Act Your Age, Eve Brown",
+      "author": "Talia Hibbert",
+      "genre": "Romantic",
+      "year": 2021.0,
+      "isbn": 9780062941275.0,
+      "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1598833651l/51824384.jpg"
+    },
+    {
+      "title": "In a Holidaze",
+      "author": "Christina Lauren",
+      "genre": "Romantic",
+      "year": 2020.0,
+      "isbn": 9781982123949.0,
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1601590329i/50892287.jpg"
+    },
+    {
+      "title": "The Ex Talk",
+      "author": "Rachel Lynn Solomon",
+      "genre": "Romantic",
+      "year": 2021.0,
+      "isbn": 9781984805454.0,
+      "imageUrl": "https://m.media-amazon.com/images/I/81vJqiB-XkL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "title": "The Dating Playbook",
+      "author": "Farrah Rochon",
+      "genre": "Romantic",
+      "year": 2021.0,
+      "isbn": 9781538702987.0,
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1607427006i/55919760.jpg"
+    },
+    {
+      "title": "The Layover",
+      "author": "Lacie Waldon",
+      "genre": "Romantic",
+      "year": 2021.0,
+      "isbn": 9780593332396.0,
+      "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1604966850l/55411076.jpg"
+    },
+    {
+      "title": "The Soulmate Equation",
+      "author": "Christina Lauren",
+      "genre": "Romantic",
+      "year": 2021.0,
+      "isbn": 9781982179717.0,
+      "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1635692444l/58438593.jpg"
+    },
+    {
+      "title": "Second First Impressions",
+      "author": "Sally Thorne",
+      "genre": "Romantic",
+      "year": 2021.0,
+      "isbn": 9780062912857.0,
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1617153142i/45553600.jpg"
+    },
+    {
+      "title": "The Bookish Life of Nina Hill",
+      "author": "Abbi Waxman",
+      "genre": "Romantic",
+      "year": 2019.0,
+      "isbn": 9780451491875.0,
+      "imageUrl": "https://m.media-amazon.com/images/I/71g-vTeoseL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "title": "The Switch",
+      "author": "Beth O'Leary",
+      "genre": "Romantic",
+      "year": 2020.0,
+      "isbn": 9781250295651.0,
+      "imageUrl": "https://www.amazon.com/images/P/B081LW6477.01.LZZZZZZZ.jpg"
+    },
+    {
+      "title": "One Last Stop",
+      "author": "Casey McQuiston",
+      "genre": "Romantic",
+      "year": 2021.0,
+      "isbn": 9781250244499.0,
+      "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1598019346l/54860443.jpg"
+    },
+    {
+      "title": "The Charm Offensive",
+      "author": "Alison Cochrun",
+      "genre": "Romantic",
+      "year": 2021.0,
+      "isbn": 9781982170714.0,
+      "imageUrl": "https://m.media-amazon.com/images/I/71mGKWzoUTS._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "title": "The Love Hypothesis",
+      "author": "Ali Hazelwood",
+      "genre": "Romantic",
+      "year": 2021.0,
+      "isbn": 9780593336837.0,
+      "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1611937942l/56732449.jpg"
+    },
+    {
+      "title": "To Sir, with Love",
+      "author": "Lauren Layne",
+      "genre": "Romantic",
+      "year": 2021.0,
+      "isbn": 9781501135181.0,
+      "imageUrl": "https://m.media-amazon.com/images/I/51LHw5cSnTS._SY780_.jpg"
+    },
+    {
+      "title": "Dating You / Hating You",
+      "author": "Christina Lauren",
+      "genre": "Romantic",
+      "year": 2017.0,
+      "isbn": 9781501165867.0,
+      "imageUrl": "https://m.media-amazon.com/images/I/714P-9QXhQL._AC_UF1000,1000_QL80_.jpg"
+    }
+  ]
+}

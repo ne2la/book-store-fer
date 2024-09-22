@@ -1,0 +1,18 @@
+/* body {
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+  background-color: #f5f5f5;
+} */
+
+body {
+  background-image: url('https://i.pinimg.com/originals/79/07/be/7907befc485ca9382f5b55834f9bc8a6.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.content {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px 0;
+}
